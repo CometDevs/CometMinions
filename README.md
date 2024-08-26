@@ -1,2 +1,2 @@
 # CometMinions
-An 
+A WIP PocketMine-MP minions plugin 
